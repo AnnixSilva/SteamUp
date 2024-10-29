@@ -4,6 +4,10 @@ body[b-qx0p0sgxyx] {
   background-color: #f8f9fa;
 }
 
+nav li[b-qx0p0sgxyx]{
+  color: black !important;
+}
+
 .navbar[b-qx0p0sgxyx] {
   background-color: #ffffff;
   box-shadow: 0 2px 4px rgba(0,0,0,.1);
@@ -89,7 +93,7 @@ body[b-qx0p0sgxyx] {
 .footer[b-qx0p0sgxyx] {
   background-color: #28a745;
   color: white;
-  padding: 2rem 0;
+  height: auto;
 }
 
 .footer a[b-qx0p0sgxyx] {

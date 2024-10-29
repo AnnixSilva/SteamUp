@@ -3,6 +3,10 @@ body {
   background-color: #f8f9fa;
 }
 
+nav li{
+  color: black !important;
+}
+
 .navbar {
   background-color: #ffffff;
   box-shadow: 0 2px 4px rgba(0,0,0,.1);
@@ -88,7 +92,7 @@ body {
 .footer {
   background-color: #28a745;
   color: white;
-  padding: 2rem 0;
+  height: auto;
 }
 
 .footer a {
