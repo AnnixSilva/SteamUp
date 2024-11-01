@@ -66,6 +66,7 @@ nav li{
   width: auto; /* Define a largura como automática */
   height: 60px; /* Mantém a altura desejada */
   padding: 0 20px; /* Adiciona preenchimento lateral para um melhor espaçamento */
+  color: black!;
   
   background: #D82525; /* Cor de fundo do link */
   border: 1px solid #741111; /* Borda do link */
@@ -75,6 +76,12 @@ nav li{
   line-height: 60px; /* Alinha verticalmente o texto */
   transition: background-color 0.3s ease; /* Transição suave para a cor de fundo */
 }
+
+.text-n{
+  color: black!;
+
+}
+
 
 .navbar-nav .nav-link:hover {
   background: #e60d0d; /* Cor de fundo ao passar o mouse */
@@ -87,30 +94,3 @@ nav li{
   to { opacity: 1; }
 }
 
-
-
-.footer {
-  background-color: #28a745;
-  color: white;
-  height: auto;
-}
-
-.footer a {
-  color: white;
-  text-decoration: none;
-  transition: opacity 0.3s ease;
-}
-
-.footer a:hover {
-  opacity: 0.8;
-}
-
-@media (max-width: 768px) {
-  .navbar-nav {
-      text-align: center;
-  }
-
-  .dropdown-menu {
-      text-align: center;
-  }
-}

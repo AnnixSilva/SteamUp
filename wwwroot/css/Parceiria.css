@@ -24,6 +24,10 @@
     gap: 1em;
     margin-top: 1em;
 }
+.work {
+    height: 100px;
+    width: 100px;
+}
 
 .partner-logo {
     width: 50px;

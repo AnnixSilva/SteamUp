@@ -97,6 +97,7 @@ form > input {
     background-color: #e22424;
     color: white;
     text-align: center;
+    bottom: 100%;
 }
 .ecoli {
     position:relative;

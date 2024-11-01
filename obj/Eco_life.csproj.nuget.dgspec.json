@@ -1,25 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Oem\\SUPERASP5\\Eco_life.csproj": {}
+    "C:\\Users\\021.898683\\SUPERASP5\\Eco_life.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Oem\\SUPERASP5\\Eco_life.csproj": {
+    "C:\\Users\\021.898683\\SUPERASP5\\Eco_life.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Oem\\SUPERASP5\\Eco_life.csproj",
+        "projectUniqueName": "C:\\Users\\021.898683\\SUPERASP5\\Eco_life.csproj",
         "projectName": "Eco_life",
-        "projectPath": "C:\\Users\\Oem\\SUPERASP5\\Eco_life.csproj",
-        "packagesPath": "C:\\Users\\Oem\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Oem\\SUPERASP5\\obj\\",
+        "projectPath": "C:\\Users\\021.898683\\SUPERASP5\\Eco_life.csproj",
+        "packagesPath": "C:\\Users\\021.898683\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\021.898683\\SUPERASP5\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Oem\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\021.898683\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -115,7 +118,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
